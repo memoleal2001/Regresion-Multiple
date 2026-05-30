@@ -1,0 +1,6 @@
+{
+  "name": "Analizador de Regresión Múltiple Comercial",
+  "description": "Plataforma de análisis de regresión múltiple y simulación de escenarios de negocio en ventas, precio e impacto de mercado, con generación de informes ejecutivos en PDF e inteligencia de Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
